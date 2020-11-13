@@ -1,0 +1,6 @@
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\obj\Debug\BitwiseCalculator.csprojAssemblyReference.cache
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\obj\Debug\BitwiseCalculator.csproj.CoreCompileInputs.cache
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\bin\Debug\BitwiseCalculator.exe
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\bin\Debug\BitwiseCalculator.pdb
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\obj\Debug\BitwiseCalculator.exe
+D:\Study\Programing\CsharpProjects\BitwiseCalculator\BitwiseCalculator\obj\Debug\BitwiseCalculator.pdb
